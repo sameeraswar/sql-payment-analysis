@@ -86,15 +86,6 @@ sql-payment-analysis/
 | `sql_code.png` | SQL code screenshot |
 | `query_output.png` | Query result screenshot |
 
-## Project Screenshots
-
-### SQL Code
-
-![SQL Code](screenshots/sql_code.png)
-
-### Query Output
-
-![Query Output](screenshots/query_output.png)
 
 ## How to Run
 
